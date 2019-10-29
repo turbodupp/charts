@@ -1,7 +1,7 @@
 apiVersion: v1
 name: rocketchat
-version: 1.1.15
-appVersion: 1.3.1
+version: 1.1.16
+appVersion: 2.0.0
 description: Prepare to take off with the ultimate chat platform, experience the next level of team communications
 keywords:
 - chat
@@ -23,4 +23,5 @@ maintainers:
 - name: pierreozoux
 - name: verwilst
 - name: srueg
+- name: haugi
 engine: gotpl
